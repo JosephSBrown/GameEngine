@@ -1,0 +1,8 @@
+D:\VS Projects\GameEngineProject\GameEngineProject\obj\Debug\GameEngineProject.csproj.AssemblyReference.cache
+D:\VS Projects\GameEngineProject\GameEngineProject\obj\Debug\GameEngineProject.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\GameEngineProject\GameEngineProject\obj\Debug\GameEngineProject.csproj.CoreCompileInputs.cache
+D:\VS Projects\GameEngineProject\GameEngineProject\bin\Debug\GameEngineProject.exe.config
+D:\VS Projects\GameEngineProject\GameEngineProject\bin\Debug\GameEngineProject.exe
+D:\VS Projects\GameEngineProject\GameEngineProject\bin\Debug\GameEngineProject.pdb
+D:\VS Projects\GameEngineProject\GameEngineProject\obj\Debug\GameEngineProject.exe
+D:\VS Projects\GameEngineProject\GameEngineProject\obj\Debug\GameEngineProject.pdb
